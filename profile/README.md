@@ -12,20 +12,9 @@ This repository is designed to support education, research, and practical implem
 
 We welcome contributions from students, faculty, and the broader community! Here's how you can get involved:
 
-### 1. Fork the Repository
-Fork the repository you want to contribute to your own GitHub account.
-### 2. Create a New Branch
-Create a new branch for your changes in the repository you forked.
-### 3. Make Your Changes
-Make your changes to the code or documentation in the repository you forked.
-### 4. Commit Your Changes
-Commit your changes with a descriptive commit message in the repository you forked.
-### 5. Push Your Changes
-Push your changes to your GitHub repository you forked.
-### 6. Create a Pull Request
-Create a pull request to the original repository.
-### 7. Wait for Review
-Wait for the review of your changes by the maintainers of the original repository.
+```
+[ Fork ] → [ Branch ] → [ Edit ] → [ Commit ] → [ Push ] → [ PR ] → [ Review ]
+```
 
 ## 📞 Contact Information
 

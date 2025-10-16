@@ -6,7 +6,7 @@ Welcome to the public code repository related to distributed and networked syste
 
 ## 🎯 About This Repository
 
-This repository is designed to support education, research, and practical implementation of distributed and networked systems concepts. It provides access to a wide range of materials that is intendend to facilitate learning and experimentation in these critical areas of computer science.
+This repository is designed to support education, research, and practical implementation of distributed and networked systems concepts. It provides access to a curated range of materials that is intendend to facilitate learning and experimentation in these critical areas of computer science. While the repositories are mainly developed and maintained by students of curated courses and modules at Esslingen University, we welcome contributions from the broader community!
 
 ## 🤝 Contributing
 
